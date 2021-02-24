@@ -1,0 +1,20 @@
+{
+  "name": "octodns-vercel",
+  "author": {
+    "name": "Anton Piskunov",
+    "email": "anton@piskunov.email"
+  },
+  "dependencies": {
+    "@zeit/integration-utils": "^0.4.0",
+    "date-fns": "2.0.0-alpha.27",
+    "date-fns-tz": "^1.0.7",
+    "lodash.uniq": "^4.5.0",
+    "ms": "^2.1.1",
+    "node-fetch": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/lodash.uniq": "^4.5.6",
+    "@types/ms": "^0.7.30",
+    "@types/node-fetch": "^2.3.3"
+  }
+}
